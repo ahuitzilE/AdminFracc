@@ -1,2 +1,0 @@
-# AdminFracc
-Proyecto Adminstración Fraccionamientos
